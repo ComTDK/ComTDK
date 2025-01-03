@@ -20,12 +20,6 @@
  <!-- Stat Section -->
 <p align="center">
   <a href="https://github.com/ComTDK">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ComTDK&theme=radical&border=7F3FBF&background=0D1117" alt="ComTDK's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ComTDK">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComTDK&theme=radical&border_color=7F3FBF&border=2" alt="ComTDK's GitHub Contribution"/>
   </a>
 </p>
